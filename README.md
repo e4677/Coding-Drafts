@@ -55,3 +55,16 @@ The application operates via **Wi-Fi**, ensuring:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/PINDOT.git
+
+---
+
+## 👨‍💻 Developers  
+Meet the team behind **PINDOT**:  
+
+- [Your Name](https://github.com/yourusername)  
+- [Developer 2 Name](https://github.com/developer2username)  
+- [Developer 3 Name](https://github.com/developer3username)  
+
+---
+
+
