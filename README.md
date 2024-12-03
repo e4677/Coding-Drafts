@@ -61,9 +61,9 @@ The application operates via **Wi-Fi**, ensuring:
 ## 👨‍💻 Developers  
 Meet the team behind **PINDOT**:  
 
-- [Your Name](https://github.com/yourusername)  
-- [Developer 2 Name](https://github.com/developer2username)  
-- [Developer 3 Name](https://github.com/developer3username)  
+- [Barican, John Andrei A.](https://github.com/e4677)  
+- [Guinoban, Glenn M.](https://github.com/glngnbn)  
+- [Lalongisip, Darlyne Grace M.](https://github.com/drlyngrc)  
 
 ---
 
